@@ -1,6 +1,4 @@
-//https://www.naukri.com/code360/problems/unique-sorted-list_2420283?leftPanelTab=0%3Fsource%3Dyoutube&campaign=YouTube_Lovebabbar29thJan&utm_source=youtube&utm_medium=affiliate&utm_campaign=YouTube_Lovebabbar29thJan&leftPanelTabValue=PROBLEM
-
-/**
+//https://www.naukri.com/code360/problems/unique-sorted-list_2420283
  * Definition of doubly linked list:
  * class Node {
  * public:

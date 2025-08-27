@@ -1,5 +1,4 @@
-//https://www.naukri.com/code360/problems/middle-of-linked-list_973250?source=youtube&campaign=Lovebabbarcodestudio_24thJan&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbarcodestudio_24thJan&leftPanelTabValue=PROBLEM
-
+//https://www.naukri.com/code360/problems/middle-of-linked-list_973250
 /*
 Following is the class structure of the Node class:
 

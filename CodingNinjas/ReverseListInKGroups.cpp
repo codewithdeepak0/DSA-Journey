@@ -1,5 +1,4 @@
-//https://www.naukri.com/code360/problems/reverse-list-in-k-groups_983644?leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbar_codestudio_26thjan&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar_codestudio_26thjan&leftPanelTabValue=PROBLEM
-
+//https://www.naukri.com/code360/problems/reverse-list-in-k-groups_983644
 /**
  * Definition for singly-linked list.
  * class Node {

@@ -1,5 +1,4 @@
-//https://www.naukri.com/code360/problems/interview-shuriken-42-detect-and-remove-loop_241049?leftPanelTab=0%3Fsource%3Dyoutube&campaign=YouTube_codestudio_lovebabbar28thjan&utm_source=youtube&utm_medium=affiliate&utm_campaign=YouTube_codestudio_lovebabbar28thjan&leftPanelTabValue=PROBLEM
-
+//https://www.naukri.com/code360/problems/interview-shuriken-42-detect-and-remove-loop_241049
 /*************************************************
     
     class Node {
